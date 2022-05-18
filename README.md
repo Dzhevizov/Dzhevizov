@@ -10,7 +10,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I am a Python Developer from Bulgaria.
 - :telescope: I’m in the beginning of my career as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🌱 I’m currently learning and develop my skills in Python, Django Framework, HTML and CSS.
+- 🌱 I am currently learning and developing my skills in Python, Django Framework, HTML and CSS.
 
 - :zap: In my free time, I watch YouTube tutorials and read tech articles and documentation.
 
